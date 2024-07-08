@@ -1,0 +1,6 @@
+<html>
+
+     @livewire('products')
+
+ 
+</html>
